@@ -1,4 +1,5 @@
 # High-Quality Multi-Platform Simulcasting Application
+https://miro.com/app/board/uXjVGSYOrHU=/?share_link_id=666451785292
 
 ## 1. Executive Summary
 This proposal presents a fully modern, scalable, and professional-grade multi-platform live streaming (simulcasting) application built using React Native with deeply integrated native streaming cores and Node.js backend infrastructure.
